@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hooks-Contador-Bootstrap-React/static/css/main.8b1dabdb.css",
+    "main.js": "/Hooks-Contador-Bootstrap-React/static/js/main.e6377310.js",
+    "index.html": "/Hooks-Contador-Bootstrap-React/index.html",
+    "main.8b1dabdb.css.map": "/Hooks-Contador-Bootstrap-React/static/css/main.8b1dabdb.css.map",
+    "main.e6377310.js.map": "/Hooks-Contador-Bootstrap-React/static/js/main.e6377310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b1dabdb.css",
+    "static/js/main.e6377310.js"
+  ]
+}
