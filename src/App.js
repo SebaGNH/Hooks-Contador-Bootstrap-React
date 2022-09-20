@@ -1,10 +1,11 @@
-import Effect from "./components/Effect";
-
+import EffectMontar from "./components/EffectMontar";
+import Reducer from "./components/Reducer";
 
 function App() {
   return (
     <div className='container'>
-      <Effect/>
+      <EffectMontar/>
+      <Reducer/>
     </div>
   );
 }
